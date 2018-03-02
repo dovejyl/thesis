@@ -1,1 +1,3 @@
-# thesis
+# thesis project
+
+Passive radar
